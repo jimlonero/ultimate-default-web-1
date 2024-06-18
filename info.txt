@@ -22,4 +22,4 @@ commit #12 squash local commit 3
 
 commit #13 squash local commit 4
 
-No more commits after this line.
+No more commits after this line. And anything else is bad.
