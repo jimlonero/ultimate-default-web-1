@@ -22,4 +22,8 @@ commit #12 squash local commit 3
 
 commit #13 squash local commit 4
 
+commit #14 cherry pick demo commit 1
+
+commit #15 cherry pick demo commit 2
+
 No more commits after this line. And anything else is bad.
